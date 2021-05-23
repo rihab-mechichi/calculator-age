@@ -1,0 +1,65 @@
+body{
+    background-color: gray;
+    margin: 0;
+}
+
+#calculatrice{
+    background-color: rgb(92, 205, 190);
+    width: 20%;
+    margin: auto;
+    display: block;
+    margin-top: 10%;
+    padding: 30px;
+}
+
+#btn1{
+    background-color: green;
+    color: white;
+    margin-top: 15px;
+    cursor: pointer;
+    outline: none;
+    margin-right: 5px;
+}
+
+#btn2{
+    background-color: rgb(128, 0, 128);
+    color: white;
+    cursor: pointer;
+    outline: none;
+}
+
+#result{
+    width: 250px;
+    height: 150px;
+    background-color: rgb(12 12 12);
+    color: rebeccapurple;
+    overflow: scroll;
+}
+
+#annee{
+    width: 25%;
+    margin-right: 20%;
+}
+
+#mois{
+    margin-right: 5px;
+    width: 22%;
+}
+
+#jour{
+    margin-right: 5px;
+}
+
+#annee2{
+    width: 25%;
+    margin-right: 20%;
+}
+
+#mois2{
+    margin-right: 5px;
+    width: 22%;
+}
+
+#jour2{
+    margin-right: 5px;
+}
